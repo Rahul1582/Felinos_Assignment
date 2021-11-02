@@ -10,7 +10,7 @@
  ```bash
   npm install 
  ```
- **3. Now start the React and Node server together by running the following command :-**
+ **3. Now start the Node server by running the following command :-**
  ```bash
   node index.js
  ```   
