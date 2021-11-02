@@ -1,12 +1,9 @@
-<!-- # Felinos Technologies Assignment
+# Felinos Technologies Assignment
 
 ### Getting Started ⚡ :-
-
-
  **1. Clone this repo by running the following command :-**
  ```bash
-  git clone https://github.com/Rahul1582/Bloggers-Arena.git
-  cd Server
+  git clone https://github.com/Rahul1582/Felinos_Assignment.git
  ```
  
  **2. Now Install all the required packages by running the following commands :-**
@@ -18,6 +15,4 @@
   node index.js
  ```   
    
- **3.**  Open your browser and go to  `https://localhost:8000`**
-
- **4.** **🎉  For using Postman `https://localhost:8000`** -->
+ **4. All the routes can be tested using Postman by using the base url as `https://localhost:8000`**
